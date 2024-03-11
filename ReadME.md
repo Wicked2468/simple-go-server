@@ -11,7 +11,7 @@ This is a simple Go program that demonstrates how to create a basic HTTP server 
 ## Usage
 
 1. Clone the repository:
-
+    https://github.com/Wicked2468/simple-go-server.git
 
 2. Run the server:
     go run main.go
